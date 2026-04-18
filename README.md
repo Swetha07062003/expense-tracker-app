@@ -12,14 +12,6 @@ This project simulates how modern FinTech applications analyze financial behavio
 * Payment method analysis
 * Expense distribution by category
 
-The project is beginner-friendly but designed in a professional way suitable for:
-
-* Placement preparation
-* Internship portfolios
-* GitHub showcase
-* Data Analyst / Business Analyst / Financial Analyst roles
-
----
 
 # 🎯 Objective
 
@@ -205,7 +197,7 @@ outputs/
 ## 📷 Dashboard Screenshots
 
 ### Dashboard Overview
-![Dashboard ](outputs/dashboard3.png)
+![Dashboard](outputs/Dashboard3.png)
 
 ### Category-wise Spending Analysis
 ![Category-wise Spending](outputs/charts/category_spending.png)
