@@ -206,16 +206,15 @@ outputs/
 
 ### Dashboard Overview
 ![Dashboard Overview](outputs/dashboard1.png)
+![Dashboard Overview](outputs/dashboard2.png)
+![Dashboard Overview](outputs/dashboard3.png)
+![Dashboard Overview](outputs/dashboard4.png)
 
 ### Category-wise Spending Analysis
-![Category-wise Spending](outputs/dashboard2.png)
+![Category-wise Spending](outputs/category_spending.png)
 
 ### Monthly Expense Trend
-![Monthly Expense Trend](outputs/dashboard3.png)
-
-### High Expense Transactions
-![High Expense Transactions](outputs/dashboard4.png)
-
+![Monthly Expense Trend](outputs/monthly_trend.png)
 
 ---
 
