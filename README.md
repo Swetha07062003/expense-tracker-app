@@ -197,7 +197,7 @@ outputs/
 ## 📷 Dashboard Screenshots
 
 ### Dashboard Overview
-![Dashboard](outputs/Dashboard3.png)
+![Dashboard](outputs/dashboard4.png)
 
 ### Category-wise Spending Analysis
 ![Category-wise Spending](outputs/charts/category_spending.png)
@@ -251,16 +251,12 @@ This approach is more realistic than using a fixed amount.
 
 # 🔮 Future Improvements
 
-Possible future enhancements:
-
-* Real-time expense entry
-* User login system
-* AI-based monthly expense prediction
-* Savings goal tracker
-* Budget limit alerts
-* Export to PDF or Excel
-* Mobile app version
-
+- Add real-time expense entry through the dashboard
+- Implement budget limits and overspending alerts
+- Add AI-based expense prediction for future months
+- Integrate with bank or UPI transaction history
+- Create user login and personal profile support
+- Add savings goal and financial target tracking
 ---
 
 
