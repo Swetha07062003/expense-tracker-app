@@ -1,0 +1,12 @@
+
+Expense Tracker Analysis Summary
+--------------------------------
+Highest Spending Category: Food
+Amount Spent: 1225416
+
+Overspending Threshold: 14194.75
+
+Total Transactions: 1000
+
+Most Expensive Transaction:
+2024-01-05 00:00:00 - Entertainment - ₹14800
