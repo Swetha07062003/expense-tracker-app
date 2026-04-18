@@ -205,16 +205,25 @@ outputs/
 ## 📷 Dashboard Screenshots
 
 ### Dashboard Overview
-![Dashboard Overview](outputs/dashboard1.png)
-![Dashboard Overview](outputs/dashboard2.png)
-![Dashboard Overview](outputs/dashboard3.png)
-![Dashboard Overview](outputs/dashboard4.png)
+![Dashboard 1](outputs/dashboard1.png)
+
+![Dashboard 2](outputs/dashboard2.png)
+
+![Dashboard 3](outputs/dashboard3.png)
+
+![Dashboard 4](outputs/dashboard4.png)
 
 ### Category-wise Spending Analysis
-![Category-wise Spending](outputs/category_spending.png)
+![Category-wise Spending](outputs/charts/category_spending.png)
 
 ### Monthly Expense Trend
-![Monthly Expense Trend](outputs/monthly_trend.png)
+![Monthly Expense Trend](outputs/charts/monthly_trend.png)
+
+### Payment Method Distribution
+![Payment Method Distribution](outputs/charts/payment_method_distribution.png)
+
+### Expense Distribution by Category
+![Expense Distribution](outputs/charts/expense_distribution.png)
 
 ---
 
