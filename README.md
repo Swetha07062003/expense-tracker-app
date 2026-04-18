@@ -202,8 +202,6 @@ outputs/
 
 ---
 
-# 📷 Screenshots to Add
-
 ## 📷 Dashboard Screenshots
 
 ### Dashboard Overview
@@ -217,6 +215,7 @@ outputs/
 
 ### High Expense Transactions
 ![High Expense Transactions](outputs/dashboard4.png)
+
 
 ---
 
