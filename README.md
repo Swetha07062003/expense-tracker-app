@@ -207,11 +207,11 @@ outputs/
 ### Dashboard Overview
 ![Dashboard 1](outputs/dashboard1.png)
 
-![Dashboard 2](outputs/dashboard2.png)
+![Dashboard 2](outputs/Dashboard2.png)
 
 ![Dashboard 3](outputs/dashboard3.png)
 
-![Dashboard 4](outputs/dashboard4.png)
+![Dashboard 4](outputs/Dashboard4.png)
 
 ### Category-wise Spending Analysis
 ![Category-wise Spending](outputs/charts/category_spending.png)
