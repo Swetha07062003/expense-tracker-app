@@ -197,7 +197,7 @@ outputs/
 ## 📷 Dashboard Screenshots
 
 ### Dashboard Overview
-![Dashboard](outputs/dashboard4.png)
+![Dashboard](outputs/dashboard3.png)
 
 ### Category-wise Spending Analysis
 ![Category-wise Spending](outputs/charts/category_spending.png)
