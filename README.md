@@ -11,7 +11,10 @@ This project simulates how modern FinTech applications analyze financial behavio
 * Overspending detection
 * Payment method analysis
 * Expense distribution by category
+  
+## 🚀 Live Demo
 
+[Expense Tracker Dashboard](https://expense-tracker-app-hrspbskwajpjgzjgsdq5ah.streamlit.app/)
 
 # 🎯 Objective
 
